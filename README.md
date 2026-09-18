@@ -1,6 +1,6 @@
 # Home SOC Lab: Suricata + Wazuh
 
-A self-hosted, single-VM Security Operations Center (SOC) lab built on **Debian**, combining **Suricata** (network IDS) and **Wazuh** (SIEM/XDR) to monitor real home network traffic and surface security-relevant events on a live dashboard.
+A self-hosted, single-VM Security Operations Center (SOC) lab built on **Debian**, combining **Suricata** (network IDS/IPS) and **Wazuh** (SIEM/XDR) to monitor real home network traffic and surface security-relevant events on a live dashboard.
 
 > Personal project, built for genuine home network monitoring and as a hands-on SOC/detection-engineering learning exercise. Designed, configured, and debugged the full pipeline end-to-end, including diagnosing and fixing a real Suricata/Wazuh integration bug.
 
